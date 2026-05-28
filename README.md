@@ -47,7 +47,7 @@ License
 
 Full information on the license for this software is available in the "LICENSE.txt" file.
 
-## Source Code for DLT Viewer (This repository)
+## Base Source Code for DLT Viewer (This repository)
 
 https://github.com/GENIVI/dlt-viewer
 
@@ -60,9 +60,11 @@ https://github.com/GENIVI/dlt-viewer
 [genivi-diagnostic-log-and-trace](https://lists.genivi.org/mailman/listinfo/genivi-diagnostic-log-and-trace_lists.genivi.org)
 
 ## Additional Plugins
+----------------
 
-
+----------------
 
 ## Contact
+----------------
 
-
+----------------
